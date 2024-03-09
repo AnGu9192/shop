@@ -232,7 +232,8 @@ nav {
     font-size: 16px;
     color: #555555;
 }
-
+input[type=date]{
+}
 .card-grp{
     display: flex;
     justify-content: space-between;
